@@ -93,9 +93,7 @@ onKeyUp("t", (e) => {
           联系作者：guo2018 # 88.com （请将#替换为@）
         </div>
         <div>
-          作者其他作品：<br>
-          乐理计算器：<a href="https://guohub8080.github.io/guo_musickit/#/music/readme">GitHub Pages</a> /
-          <a href="https://guohub8080.gitee.io/guo_musickit/#/music/readme">Gitee Pages</a>
+          作者主页：<a href="https://github.com/guohub8080/">GitHub @guohub8080</a>
         </div>
 
       </template>
